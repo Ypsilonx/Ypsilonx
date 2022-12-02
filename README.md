@@ -10,3 +10,18 @@
 </a>
 
 <br /><br />
+
+[![Waka Readme](https://github.com/Ypsilonx/Ypsilonx/actions/workflows/wakatime.yml/badge.svg)](https://github.com/Ypsilonx/Ypsilonx/actions/workflows/wakatime.yml)
+
+<!--START_SECTION:waka-->
+
+```text
+Python                           ████████████████████████▓   98.82 %
+Text                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+textmate                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Docker                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
+<!--END_SECTION:waka-->
