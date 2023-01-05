@@ -1,10 +1,11 @@
 ## Ahoj 🤗 / Hi 👋 / Hello 🖐
 
-<br />
+<p>
 <a href="https://www.linkedin.com/in/ypsilonx/" target="new">
   <img align="left" alt="Ypsix's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
+
+</p>
 <a href="https://twitter.com/TCibulec" target="new">
   <img align="left" alt="TCibulec | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
