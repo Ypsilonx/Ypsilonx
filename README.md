@@ -11,6 +11,9 @@
 <a href="https://twitter.com/TCibulec" target="new">
   <img align="left" alt="TCibulec | Twitter" width="22px" src="img/pngaaa.com-914541.png" />
 </a>
+<a href="https://www.sololearn.com/profile/23429470" target="new">
+  <img align="left" alt="Ypsilonx | Sololearn" width="22px" src="img/logo-sololearn.jpg" />
+</a>
 
 </p>
 
