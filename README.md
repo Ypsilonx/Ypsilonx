@@ -23,8 +23,8 @@
 
 <p>
 
-> ## dsff
-> - sdsdsd
-> - sdsdsdsd
+> ## Proklikaj linky, snad se něco dozvíš
+> - jsem normální ogar z Valašska, kde je prdlačky technologií a vše sa tu objeví se zpožděním 10 let (skoro)
+> - jinač sa učím sám a ani práca mi moc nepomáhá sa někoho zeptat tak pro mě seniorní kolega je ChatGPT a nebo Binq
 
 </p>
