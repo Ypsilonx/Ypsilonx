@@ -87,35 +87,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 
 ---
 
-## 🌟 Co dělám
-
-```javascript
-const ypsilonx = {
-    pronouns: "on/jeho",
-    code: ["JavaScript", "TypeScript", "Python", "C#", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            csharp: ["ASP.NET Core"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloudServices: ["Azure", "AWS", "Vercel", "Netlify"],
-        misc: ["Docker", "Kubernetes", "GraphQL", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "Pracujem na tajnom projekte 🤫",
-    funFact: "Debug-uju kód víc než spím!"
-};
-```
-
----
-
 ## 🤝 Pojďme se spojit!
 
 <div align="center">
