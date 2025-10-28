@@ -76,6 +76,24 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 
 <!-- REPO-LIST:START -->
 
+### 📜 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
+**Bez popisu**
+
+- 💻 Jazyk: `JavaScript`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 28.10.2025
+
+---
+
+### 📜 [testing_storage_app](https://github.com/Ypsilonx/testing_storage_app)
+**Bez popisu**
+
+- 💻 Jazyk: `JavaScript`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 28.10.2025
+
+---
+
 ### 🐍 [LEDVANCE_projekt](https://github.com/Ypsilonx/LEDVANCE_projekt)
 **Bez popisu**
 
@@ -109,24 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 01.12.2024
-
----
-
-### 🐍 [sensor_app](https://github.com/Ypsilonx/sensor_app)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 04.06.2024
-
----
-
-### 🐍 [Storage_app_testlab](https://github.com/Ypsilonx/Storage_app_testlab)
-**Skladový manager pro test lab**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 01.01.2024
 
 ---
 
