@@ -80,7 +80,59 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 
 <!-- REPO-LIST:START -->
 
-<!-- Tato sekce se automaticky aktualizuje pomocí GitHub Actions -->
+### 🐍 [LEDVANCE_projekt](https://github.com/Ypsilonx/LEDVANCE_projekt)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 28.10.2025
+
+---
+
+### 🐍 [LG_projekt](https://github.com/Ypsilonx/LG_projekt)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 26.10.2025
+
+---
+
+### 🐍 [October_2025_Hang_man](https://github.com/Ypsilonx/October_2025_Hang_man)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 26.10.2025
+
+---
+
+### 🐍 [AdventOfCode_2024](https://github.com/Ypsilonx/AdventOfCode_2024)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 01.12.2024
+
+---
+
+### 🐍 [sensor_app](https://github.com/Ypsilonx/sensor_app)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 04.06.2024
+
+---
+
+### 🐍 [Storage_app_testlab](https://github.com/Ypsilonx/Storage_app_testlab)
+**Skladový manager pro test lab**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 01.01.2024
+
+---
 
 <!-- REPO-LIST:END -->
 
