@@ -76,14 +76,13 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 
 ---
 
-## 🔥 Aktuální projekty
+## 🔥 Nejnovější repozitáře
 
-<div align="center">
+<!-- REPO-LIST:START -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ypsilonx&repo=awesome-project&theme=tokyonight)](https://github.com/Ypsilonx/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ypsilonx&repo=cool-app&theme=tokyonight)](https://github.com/Ypsilonx/cool-app)
+<!-- Tato sekce se automaticky aktualizuje pomocí GitHub Actions -->
 
-</div>
+<!-- REPO-LIST:END -->
 
 ---
 
