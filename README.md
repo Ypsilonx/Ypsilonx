@@ -62,8 +62,8 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 ## 📊 GitHub Statistiky
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ypsilonx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ypsilonx&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ypsilonx&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ypsilonx&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
