@@ -77,7 +77,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 <!-- REPO-LIST:START -->
 
 ### 📜 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
-**Bez popisu**
+**rezervační systém pro zařízení - variabilní**
 
 - 💻 Jazyk: `JavaScript`
 - ⭐ Stars: 0
@@ -86,7 +86,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 ---
 
 ### 📜 [testing_storage_app](https://github.com/Ypsilonx/testing_storage_app)
-**Bez popisu**
+**skladová zásoba pro malé týmy - orientace a upozornění expirací**
 
 - 💻 Jazyk: `JavaScript`
 - ⭐ Stars: 0
@@ -95,7 +95,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 ---
 
 ### 🐍 [LEDVANCE_projekt](https://github.com/Ypsilonx/LEDVANCE_projekt)
-**Bez popisu**
+**CLI aplikace pro ovládání ledvance zařízení**
 
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
@@ -104,7 +104,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 ---
 
 ### 🐍 [LG_projekt](https://github.com/Ypsilonx/LG_projekt)
-**Bez popisu**
+**vlastní aplikace na ovládání LG klimatizace**
 
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
