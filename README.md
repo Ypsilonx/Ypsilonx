@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 
 <!-- REPO-LIST:START -->
 
+### 🦀 [what_number](https://github.com/Ypsilonx/what_number)
+**malá konzolová hra na hádání čísel**
+
+- 💻 Jazyk: `Rust`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 01.11.2025
+
+---
+
 ### 📜 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
 **rezervační systém pro zařízení - variabilní**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 26.10.2025
-
----
-
-### 🐍 [AdventOfCode_2024](https://github.com/Ypsilonx/AdventOfCode_2024)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 01.12.2024
 
 ---
 
