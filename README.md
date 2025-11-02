@@ -28,14 +28,14 @@ fields_of_interests:
 
 technical_background:
   - "Frontend: Python (Tkinter, PyQt)"
-  - "Backend: Python, C#, VBS, C++ (velice málo jenom kvůli ESP32), Rust (trošičku okukuju)"
-  - "Database: SQLite"
+  - "Backend: Python, C# (kvůli práci), VBS (licencované softwary), C++ (velice málo jenom kvůli ESP32), Rust (trošičku okukuju)"
+  - "Database: SQLite, ale asi budu muset rošířit povědomí..."
   
 currently_learning: ["Python", "C++", "C#", "Rust"]
 2025_goals: 
   - "Pracovní projekt velkého významu"
   - "Naučit se Rust"
-hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
+hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukrajiny"]
 ```
 
 ---
@@ -149,7 +149,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry"]
 ## 💡 Fun Facts
 
 - 🏔️ **Z Valašska:** Kde se technologie objevují o 10 let později, ale my máme čistý vzduch!
-- 🤖 **Můj senior kolega:** Claude Sonnet 4 a Stack Overflow (nejlepší tým ever!)
+- 🤖 **Můj senior kolega:** Claude Sonnet 4.5, Github Copilot a Stack Overflow (nejlepší tým ever!)
 - ☕ **Fuel:** Kofein a dobrá hudba (DNB)
 - 🎯 **Motto:** "Pokud to nejde, zkus to znovu. Pokud to stále nejde, zkus jiný approach!"
 - 📚 **Věčný student:** Každý den se něco nové naučím
