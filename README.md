@@ -76,7 +76,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
-### 🐍 [November_2025_Pacman_style](https://github.com/Ypsilonx/November_2025_Pacman_style)
+### 🐍 [November_2025_Chickman_game](https://github.com/Ypsilonx/November_2025_Chickman_game)
 **Bez popisu**
 
 - 💻 Jazyk: `Python`
