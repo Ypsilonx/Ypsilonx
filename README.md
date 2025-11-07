@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [November_2025_Pacman_style](https://github.com/Ypsilonx/November_2025_Pacman_style)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 06.11.2025
+
+---
+
 ### 🦀 [what_number](https://github.com/Ypsilonx/what_number)
 **malá konzolová hra na hádání čísel**
 
@@ -114,15 +123,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 ### 🐍 [LG_projekt](https://github.com/Ypsilonx/LG_projekt)
 **vlastní aplikace na ovládání LG klimatizace**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 26.10.2025
-
----
-
-### 🐍 [October_2025_Hang_man](https://github.com/Ypsilonx/October_2025_Hang_man)
-**Bez popisu**
 
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
