@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 📁 [TFWR-Translations](https://github.com/Ypsilonx/TFWR-Translations)
+**CZ to TFWR game**
+
+- 💻 Jazyk: `N/A`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 23.12.2025
+
+---
+
 ### 🐍 [November_2025_Chickman_game](https://github.com/Ypsilonx/November_2025_Chickman_game)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 28.10.2025
-
----
-
-### 🐍 [LG_projekt](https://github.com/Ypsilonx/LG_projekt)
-**vlastní aplikace na ovládání LG klimatizace**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 26.10.2025
 
 ---
 
