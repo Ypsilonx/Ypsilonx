@@ -103,10 +103,10 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 ---
 
-### 📜 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
+### 🐍 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
 **rezervační systém pro zařízení - variabilní**
 
-- 💻 Jazyk: `JavaScript`
+- 💻 Jazyk: `Python`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 28.10.2025
 
