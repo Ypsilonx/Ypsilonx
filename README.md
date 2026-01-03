@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🦀 [FileSystem_CLI](https://github.com/Ypsilonx/FileSystem_CLI)
+**Bez popisu**
+
+- 💻 Jazyk: `Rust`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 02.01.2026
+
+---
+
 ### 🐍 [measuring_capacity_app](https://github.com/Ypsilonx/measuring_capacity_app)
 **Bez popisu**
 
@@ -116,15 +125,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 **rezervační systém pro zařízení - variabilní**
 
 - 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 28.10.2025
-
----
-
-### 📜 [testing_storage_app](https://github.com/Ypsilonx/testing_storage_app)
-**skladová zásoba pro malé týmy - orientace a upozornění expirací**
-
-- 💻 Jazyk: `JavaScript`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 28.10.2025
 
