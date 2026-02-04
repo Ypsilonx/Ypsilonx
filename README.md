@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 📁 [eggtray](https://github.com/Ypsilonx/eggtray)
+**Entry level candidates API (my profile)**
+
+- 💻 Jazyk: `N/A`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 03.02.2026
+
+---
+
 ### 🦀 [FileSystem_CLI](https://github.com/Ypsilonx/FileSystem_CLI)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Rust`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 01.11.2025
-
----
-
-### 🐍 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
-**rezervační systém pro zařízení - variabilní**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 28.10.2025
 
 ---
 
