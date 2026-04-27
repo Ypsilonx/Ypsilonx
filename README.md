@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [generator_krivek_torque](https://github.com/Ypsilonx/generator_krivek_torque)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 26.04.2026
+
+---
+
 ### 📁 [Teleporters](https://github.com/Ypsilonx/Teleporters)
 **name list for teleporters when i dont used them**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `N/A`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 23.12.2025
-
----
-
-### 🐍 [November_2025_Chickman_game](https://github.com/Ypsilonx/November_2025_Chickman_game)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 06.11.2025
 
 ---
 
