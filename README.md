@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [machine_control_vizual](https://github.com/Ypsilonx/machine_control_vizual)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 27.04.2026
+
+---
+
 ### 🐍 [generator_krivek_torque](https://github.com/Ypsilonx/generator_krivek_torque)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 29.12.2025
-
----
-
-### 📁 [TFWR-Translations](https://github.com/Ypsilonx/TFWR-Translations)
-**CZ to TFWR game**
-
-- 💻 Jazyk: `N/A`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 23.12.2025
 
 ---
 
