@@ -77,7 +77,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 <!-- REPO-LIST:START -->
 
 ### 🐍 [machine_control_vizual](https://github.com/Ypsilonx/machine_control_vizual)
-**Bez popisu**
+**Vizualizace stavu zařízení na jednom místě z vlastního PC v rámci firemní sítě.**
 
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
@@ -86,7 +86,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 ---
 
 ### 🐍 [generator_krivek_torque](https://github.com/Ypsilonx/generator_krivek_torque)
-**Bez popisu**
+**Pomocník pro export CSV, což je nastavovací sekvence pro specifický tester.**
 
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
@@ -113,7 +113,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 ---
 
 ### 🦀 [FileSystem_CLI](https://github.com/Ypsilonx/FileSystem_CLI)
-**Bez popisu**
+**Jednoduchý sorting s pár funkcemi.**
 
 - 💻 Jazyk: `Rust`
 - ⭐ Stars: 0
@@ -122,7 +122,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 ---
 
 ### 🐍 [measuring_capacity_app](https://github.com/Ypsilonx/measuring_capacity_app)
-**Bez popisu**
+**Měřič časové náročnosti při práci na projektech v rámci měření.**
 
 - 💻 Jazyk: `Python`
 - ⭐ Stars: 0
