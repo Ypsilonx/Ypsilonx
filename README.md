@@ -149,7 +149,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 ## 💡 Fun Facts
 
 - 🏔️ **Z Valašska:** Kde se technologie objevují o 10 let později, ale my máme čistý vzduch!
-- 🤖 **Můj senior kolega:** Claude Sonnet 4.5, Github Copilot a Stack Overflow (nejlepší tým ever!)
+- 🤖 **Můj senior kolega:** Claude Sonnet 4.6 (Claude Opus 4.8), Github Copilot a Stack Overflow (nejlepší tým ever!)
 - ☕ **Fuel:** Kofein a dobrá hudba (DNB)
 - 🎯 **Motto:** "Pokud to nejde, zkus to znovu. Pokud to stále nejde, zkus jiný approach!"
 - 📚 **Věčný student:** Každý den se něco nové naučím
