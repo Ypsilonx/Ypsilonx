@@ -80,8 +80,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 **PICO2 with RUST**
 
 - 💻 Jazyk: `Rust`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 07.06.2026
+- 📅 Poslední commit: 07.06.2026
+
+---
+
+### 🐍 [LG_projekt](https://github.com/Ypsilonx/LG_projekt)
+**vlastní aplikace na ovládání LG klimatizace**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 02.06.2026
 
 ---
 
@@ -89,8 +96,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 **Vizualizace stavu zařízení na jednom místě z vlastního PC v rámci firemní sítě.**
 
 - 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 27.04.2026
+- 📅 Poslední commit: 02.06.2026
+
+---
+
+### 🐍 [measuring_capacity_app](https://github.com/Ypsilonx/measuring_capacity_app)
+**Měřič časové náročnosti při práci na projektech v rámci měření.**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 31.05.2026
 
 ---
 
@@ -98,26 +112,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 **Pomocník pro export CSV, což je nastavovací sekvence pro specifický tester.**
 
 - 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 26.04.2026
-
----
-
-### 📁 [Teleporters](https://github.com/Ypsilonx/Teleporters)
-**name list for teleporters when i dont used them**
-
-- 💻 Jazyk: `N/A`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 21.03.2026
-
----
-
-### 📁 [eggtray](https://github.com/Ypsilonx/eggtray)
-**Entry level candidates API (my profile)**
-
-- 💻 Jazyk: `N/A`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 03.02.2026
+- 📅 Poslední commit: 31.05.2026
 
 ---
 
@@ -125,8 +120,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 **Jednoduchý sorting s pár funkcemi.**
 
 - 💻 Jazyk: `Rust`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 02.01.2026
+- 📅 Poslední commit: 18.04.2026
 
 ---
 
