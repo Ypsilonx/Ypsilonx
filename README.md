@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🦀 [pico2-blink](https://github.com/Ypsilonx/pico2-blink)
+**PICO2 with RUST**
+
+- 💻 Jazyk: `Rust`
+- ⭐ Stars: 0
+- 📅 Vytvořeno: 07.06.2026
+
+---
+
 ### 🐍 [machine_control_vizual](https://github.com/Ypsilonx/machine_control_vizual)
 **Vizualizace stavu zařízení na jednom místě z vlastního PC v rámci firemní sítě.**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Rust`
 - ⭐ Stars: 0
 - 📅 Vytvořeno: 02.01.2026
-
----
-
-### 🐍 [measuring_capacity_app](https://github.com/Ypsilonx/measuring_capacity_app)
-**Měřič časové náročnosti při práci na projektech v rámci měření.**
-
-- 💻 Jazyk: `Python`
-- ⭐ Stars: 0
-- 📅 Vytvořeno: 29.12.2025
 
 ---
 
