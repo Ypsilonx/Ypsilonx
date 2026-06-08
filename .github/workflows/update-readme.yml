@@ -1,40 +1,38 @@
-name: Update README with latest repos
+name: Aktualizuj README
 
 on:
   schedule:
-    # Spustí se každý den ve 2:00 UTC
-    - cron: '0 2 * * *'
-  workflow_dispatch: # Umožňuje ruční spuštění
-  push:
-    branches:
-      - main
+    - cron: '0 10 * * *'   # každý den v 10:00 UTC (= 12:00 CEST)
+  workflow_dispatch:         # ruční spuštění z GitHub UI
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Checkout repozitáře
+        uses: actions/checkout@v4
+
+      - name: Nastav Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          
-      - name: Install dependencies
-        run: |
-          pip install requests
-          
-      - name: Update README with latest repos
+          python-version: '3.13'
+
+      - name: Nainstaluj závislosti
+        run: pip install requests
+
+      - name: Aktualizuj seznam repozitářů
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_repos.py
+
+      - name: Ulož změny
         run: |
-          python .github/scripts/update_repos.py
-          
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Automatická aktualizace seznamu repozitářů" && git push)
+          git diff --staged --quiet || git commit -m "Aktualizuj seznam repozitářů [skip ci]"
+          git push

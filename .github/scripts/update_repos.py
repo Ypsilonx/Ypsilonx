@@ -6,6 +6,7 @@ Skript pro automatickou aktualizaci seznamu repozitářů v README.md
 import requests
 import os
 import re
+import time
 from datetime import datetime
 
 # GitHub API endpoint
@@ -18,7 +19,7 @@ REPO_COUNT = 6
 
 
 def get_latest_repos(username, count=6):
-    """Získá nejnovější veřejné repozitáře uživatele."""
+    """Získá repozitáře uživatele seřazené dle posledního commitu."""
     url = f"{GITHUB_API}/users/{username}/repos"
     headers = {}
     
@@ -28,9 +29,9 @@ def get_latest_repos(username, count=6):
         headers['Authorization'] = f'token {token}'
     
     params = {
-        'sort': 'created',
+        'sort': 'pushed',       # řadit dle posledního commitu
         'direction': 'desc',
-        'per_page': count,
+        'per_page': 100,        # stáhneme víc, pak filtrujeme
         'type': 'public'
     }
     
@@ -39,8 +40,11 @@ def get_latest_repos(username, count=6):
         response.raise_for_status()
         repos = response.json()
         
-        # Filtrovat pouze non-fork repozitáře nebo zahrnout i forky podle potřeby
-        # repos = [r for r in repos if not r['fork']]
+        # Vyřaď profilový repozitář (stejné jméno jako uživatel) a forky
+        repos = [
+            r for r in repos
+            if r['name'].lower() != username.lower() and not r.get('fork')
+        ]
         
         return repos[:count]
     except Exception as e:
@@ -48,8 +52,37 @@ def get_latest_repos(username, count=6):
         return []
 
 
-def format_repo_list(repos):
-    """Vytvoří markdown formát pro seznam repozitářů."""
+def get_code_stats(owner, repo_name, headers):
+    """Získá celkové součty přidaných a smazaných řádků přes stats/code_frequency.
+    
+    GitHub API tuto statistiku počítá asynchronně – při prvním dotazu vrátí 202.
+    Funkce opakuje dotaz max. 5× s čekáním, aby data stihla být připravena.
+    Vrátí tuple (additions, deletions) nebo None při chybě.
+    """
+    url = f"{GITHUB_API}/repos/{owner}/{repo_name}/stats/code_frequency"
+    for attempt in range(5):
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            if not data:
+                return None
+            additions = sum(week[1] for week in data)
+            deletions = abs(sum(week[2] for week in data))
+            return additions, deletions
+        if response.status_code == 202:
+            # Data se teprve počítají, počkej a zkus znovu
+            wait = 5 * (attempt + 1)
+            print(f"  [{repo_name}] Stats se počítají, čekám {wait}s...")
+            time.sleep(wait)
+        else:
+            print(f"  [{repo_name}] Nepodařilo se načíst stats: {response.status_code}")
+            return None
+    print(f"  [{repo_name}] Stats nedostupné ani po opakování, přeskakuji.")
+    return None
+
+
+def format_repo_list(repos, headers):
+    """Vytvoří markdown formát pro seznam repozitářů včetně stats."""
     if not repos:
         return "<!-- Zatím žádné veřejné repozitáře -->"
     
@@ -59,9 +92,8 @@ def format_repo_list(repos):
         description = repo['description'] or "Bez popisu"
         url = repo['html_url']
         language = repo['language'] or "N/A"
-        stars = repo['stargazers_count']
-        created = datetime.strptime(repo['created_at'], '%Y-%m-%dT%H:%M:%SZ')
-        created_str = created.strftime('%d.%m.%Y')
+        pushed = datetime.strptime(repo['pushed_at'], '%Y-%m-%dT%H:%M:%SZ')
+        pushed_str = pushed.strftime('%d.%m.%Y')
         
         # Emoji pro jazyky
         lang_emoji = {
@@ -78,12 +110,17 @@ def format_repo_list(repos):
         }
         emoji = lang_emoji.get(language, '📁')
         
+        print(f"  Načítám stats pro {name}...")
+        stats = get_code_stats(USERNAME, name, headers)
+        
         markdown += f"### {emoji} [{name}]({url})\n"
         markdown += f"**{description}**\n\n"
         markdown += f"- 💻 Jazyk: `{language}`\n"
-        markdown += f"- ⭐ Stars: {stars}\n"
-        markdown += f"- 📅 Vytvořeno: {created_str}\n\n"
-        markdown += "---\n\n"
+        markdown += f"- 📅 Poslední commit: {pushed_str}\n"
+        if stats:
+            additions, deletions = stats
+            markdown += f"- 📈 Celkem: +{additions:,} / -{deletions:,} řádků\n"
+        markdown += "\n---\n\n"
     
     return markdown.strip()
 
@@ -117,11 +154,17 @@ def update_readme(repo_list_markdown):
 
 def main():
     print(f"🔍 Získávám posledních {REPO_COUNT} repozitářů pro {USERNAME}...")
+    
+    token = os.environ.get('GITHUB_TOKEN')
+    headers = {}
+    if token:
+        headers['Authorization'] = f'token {token}'
+    
     repos = get_latest_repos(USERNAME, REPO_COUNT)
     
     if repos:
-        print(f"✅ Nalezeno {len(repos)} repozitářů")
-        repo_list = format_repo_list(repos)
+        print(f"✅ Nalezeno {len(repos)} repozitářů, načítám statistiky...")
+        repo_list = format_repo_list(repos, headers)
         update_readme(repo_list)
     else:
         print("⚠️ Nebyly nalezeny žádné repozitáře")
