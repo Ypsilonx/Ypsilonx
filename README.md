@@ -76,6 +76,14 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 📁 [Czechitas_Python_1_kurz](https://github.com/Ypsilonx/Czechitas_Python_1_kurz)
+**učení je mučení - skvělý kurz od Czechitas**
+
+- 💻 Jazyk: `Jupyter Notebook`
+- 📅 Poslední commit: 27.06.2026
+
+---
+
 ### 🦀 [pico2-blink](https://github.com/Ypsilonx/pico2-blink)
 **PICO2 with RUST**
 
@@ -113,14 +121,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 31.05.2026
-
----
-
-### 🦀 [FileSystem_CLI](https://github.com/Ypsilonx/FileSystem_CLI)
-**Jednoduchý sorting s pár funkcemi.**
-
-- 💻 Jazyk: `Rust`
-- 📅 Poslední commit: 18.04.2026
 
 ---
 
