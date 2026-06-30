@@ -81,6 +81,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Jupyter Notebook`
 - 📅 Poslední commit: 27.06.2026
+- 📈 Celkem: +288,853 / -188,591 řádků
 
 ---
 
@@ -89,6 +90,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Rust`
 - 📅 Poslední commit: 07.06.2026
+- 📈 Celkem: +9,376 / -7,578 řádků
 
 ---
 
@@ -97,6 +99,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 02.06.2026
+- 📈 Celkem: +20,696 / -5,262 řádků
 
 ---
 
@@ -105,6 +108,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 02.06.2026
+- 📈 Celkem: +11,665 / -1,884 řádků
 
 ---
 
@@ -113,6 +117,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 31.05.2026
+- 📈 Celkem: +8,424 / -465 řádků
 
 ---
 
@@ -121,6 +126,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 31.05.2026
+- 📈 Celkem: +2,965 / -106 řádků
 
 ---
 
