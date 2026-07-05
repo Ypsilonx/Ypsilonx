@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [July_2026_Number_converter](https://github.com/Ypsilonx/July_2026_Number_converter)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 04.07.2026
+- 📈 Celkem: +138 / -35 řádků
+
+---
+
 ### 📁 [Czechitas_Python_1_kurz](https://github.com/Ypsilonx/Czechitas_Python_1_kurz)
 **učení je mučení - skvělý kurz od Czechitas**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 31.05.2026
 - 📈 Celkem: +8,424 / -465 řádků
-
----
-
-### 🐍 [generator_krivek_torque](https://github.com/Ypsilonx/generator_krivek_torque)
-**Pomocník pro export CSV, což je nastavovací sekvence pro specifický tester.**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 31.05.2026
-- 📈 Celkem: +2,965 / -106 řádků
 
 ---
 
