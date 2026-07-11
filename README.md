@@ -108,7 +108,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 02.06.2026
-- 📈 Celkem: +20,696 / -5,262 řádků
+- 📈 Celkem: +14,614 / -2,706 řádků
 
 ---
 
