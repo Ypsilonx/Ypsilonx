@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 📜 [Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)
+**Bez popisu**
+
+- 💻 Jazyk: `JavaScript`
+- 📅 Poslední commit: 12.07.2026
+- 📈 Celkem: +11,101 / -733 řádků
+
+---
+
 ### 🐍 [July_2026_Number_converter](https://github.com/Ypsilonx/July_2026_Number_converter)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 02.06.2026
 - 📈 Celkem: +11,665 / -1,884 řádků
-
----
-
-### 🐍 [measuring_capacity_app](https://github.com/Ypsilonx/measuring_capacity_app)
-**Měřič časové náročnosti při práci na projektech v rámci měření.**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 31.05.2026
-- 📈 Celkem: +8,424 / -465 řádků
 
 ---
 
