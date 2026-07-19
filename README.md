@@ -76,12 +76,12 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
-### 📜 [Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)
+### 🐍 [Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)
 **Komisař, Vedení RZ - komunikace a bezpečnost v jednom.**
 
-- 💻 Jazyk: `JavaScript`
-- 📅 Poslední commit: 15.07.2026
-- 📈 Celkem: +15,630 / -2,373 řádků
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 18.07.2026
+- 📈 Celkem: +30,585 / -5,189 řádků
 
 ---
 
