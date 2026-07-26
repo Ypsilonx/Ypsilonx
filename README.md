@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 📁 [StartupDashboard](https://github.com/Ypsilonx/StartupDashboard)
+**Bez popisu**
+
+- 💻 Jazyk: `PowerShell`
+- 📅 Poslední commit: 26.07.2026
+- 📈 Celkem: +1,752 / -3 řádků
+
+---
+
 ### 🐍 [ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)
 **vlastní aplikace na ovládání LG klimatizace**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Rust`
 - 📅 Poslední commit: 07.06.2026
 - 📈 Celkem: +9,376 / -7,578 řádků
-
----
-
-### 🐍 [machine_control_vizual](https://github.com/Ypsilonx/machine_control_vizual)
-**Vizualizace stavu zařízení na jednom místě z vlastního PC v rámci firemní sítě.**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 02.06.2026
-- 📈 Celkem: +11,665 / -1,884 řádků
 
 ---
 
