@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [Poslanecka_sn-movna](https://github.com/Ypsilonx/Poslanecka_sn-movna)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 26.07.2026
+- 📈 Celkem: +59,340 / -10 řádků
+
+---
+
 ### 📁 [StartupDashboard](https://github.com/Ypsilonx/StartupDashboard)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Jupyter Notebook`
 - 📅 Poslední commit: 27.06.2026
 - 📈 Celkem: +288,853 / -188,591 řádků
-
----
-
-### 🦀 [pico2-blink](https://github.com/Ypsilonx/pico2-blink)
-**PICO2 with RUST**
-
-- 💻 Jazyk: `Rust`
-- 📅 Poslední commit: 07.06.2026
-- 📈 Celkem: +9,376 / -7,578 řádků
 
 ---
 
