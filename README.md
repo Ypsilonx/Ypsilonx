@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)
+**vlastní aplikace na ovládání LG klimatizace**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 28.07.2026
+- 📈 Celkem: +17,916 / -3,055 řádků
+
+---
+
 ### 🐍 [Poslanecka_sn-movna](https://github.com/Ypsilonx/Poslanecka_sn-movna)
 **Bez popisu**
 
@@ -91,15 +100,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `PowerShell`
 - 📅 Poslední commit: 26.07.2026
 - 📈 Celkem: +1,752 / -3 řádků
-
----
-
-### 🐍 [ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)
-**vlastní aplikace na ovládání LG klimatizace**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 25.07.2026
-- 📈 Celkem: +17,331 / -3,018 řádků
 
 ---
 
