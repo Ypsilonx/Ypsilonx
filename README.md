@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
+**rezervační systém pro zařízení - variabilní**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 03.08.2026
+- 📈 Celkem: +9,927 / -4,536 řádků
+
+---
+
 ### 🐍 [ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)
 **vlastní aplikace na ovládání LG klimatizace**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 04.07.2026
 - 📈 Celkem: +138 / -35 řádků
-
----
-
-### 📁 [Czechitas_Python_1_kurz](https://github.com/Ypsilonx/Czechitas_Python_1_kurz)
-**učení je mučení - skvělý kurz od Czechitas**
-
-- 💻 Jazyk: `Jupyter Notebook`
-- 📅 Poslední commit: 27.06.2026
-- 📈 Celkem: +288,853 / -188,591 řádků
 
 ---
 
