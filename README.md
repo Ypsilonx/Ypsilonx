@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [widget_windows_10](https://github.com/Ypsilonx/widget_windows_10)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 05.08.2026
+- 📈 Celkem: +755 / -0 řádků
+
+---
+
 ### 🐍 [booking_planner_for_testlab](https://github.com/Ypsilonx/booking_planner_for_testlab)
 **rezervační systém pro zařízení - variabilní**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 18.07.2026
 - 📈 Celkem: +30,585 / -5,189 řádků
-
----
-
-### 🐍 [July_2026_Number_converter](https://github.com/Ypsilonx/July_2026_Number_converter)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 04.07.2026
-- 📈 Celkem: +138 / -35 řádků
 
 ---
 
