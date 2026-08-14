@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [August_2026_Memory_challenge](https://github.com/Ypsilonx/August_2026_Memory_challenge)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 13.08.2026
+- 📈 Celkem: +2,508 / -39 řádků
+
+---
+
 ### 🐍 [widget_windows_10](https://github.com/Ypsilonx/widget_windows_10)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `PowerShell`
 - 📅 Poslední commit: 26.07.2026
 - 📈 Celkem: +1,752 / -3 řádků
-
----
-
-### 🐍 [Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)
-**Komisař, Vedení RZ - komunikace a bezpečnost v jednom.**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 18.07.2026
-- 📈 Celkem: +30,585 / -5,189 řádků
 
 ---
 
