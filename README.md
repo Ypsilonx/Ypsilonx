@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [CAR_communication_simulator_app](https://github.com/Ypsilonx/CAR_communication_simulator_app)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 24.08.2026
+- 📈 Celkem: +8,305 / -750 řádků
+
+---
+
 ### 🐍 [August_2026_Memory_challenge](https://github.com/Ypsilonx/August_2026_Memory_challenge)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 26.07.2026
 - 📈 Celkem: +59,340 / -10 řádků
-
----
-
-### 📁 [StartupDashboard](https://github.com/Ypsilonx/StartupDashboard)
-**Bez popisu**
-
-- 💻 Jazyk: `PowerShell`
-- 📅 Poslední commit: 26.07.2026
-- 📈 Celkem: +1,752 / -3 řádků
 
 ---
 
