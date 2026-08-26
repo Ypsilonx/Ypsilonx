@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 📁 [StartupDashboard](https://github.com/Ypsilonx/StartupDashboard)
+**Bez popisu**
+
+- 💻 Jazyk: `PowerShell`
+- 📅 Poslední commit: 25.08.2026
+- 📈 Celkem: +2,525 / -41 řádků
+
+---
+
 ### 🐍 [CAR_communication_simulator_app](https://github.com/Ypsilonx/CAR_communication_simulator_app)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 28.07.2026
 - 📈 Celkem: +17,916 / -3,055 řádků
-
----
-
-### 🐍 [Poslanecka_sn-movna](https://github.com/Ypsilonx/Poslanecka_sn-movna)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 26.07.2026
-- 📈 Celkem: +59,340 / -10 řádků
 
 ---
 
