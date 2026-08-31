@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)
+**Komisař, Vedení RZ - komunikace a bezpečnost v jednom.**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 30.08.2026
+- 📈 Celkem: +33,077 / -6,651 řádků
+
+---
+
 ### 📁 [StartupDashboard](https://github.com/Ypsilonx/StartupDashboard)
 **Bez popisu**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 03.08.2026
 - 📈 Celkem: +9,927 / -4,536 řádků
-
----
-
-### 🐍 [ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)
-**vlastní aplikace na ovládání LG klimatizace**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 28.07.2026
-- 📈 Celkem: +17,916 / -3,055 řádků
 
 ---
 
