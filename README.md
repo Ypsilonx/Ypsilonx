@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 🐍 [widget_windows_10](https://github.com/Ypsilonx/widget_windows_10)
+**Bez popisu**
+
+- 💻 Jazyk: `Python`
+- 📅 Poslední commit: 27.09.2026
+- 📈 Celkem: +834 / -16 řádků
+
+---
+
 ### 🐍 [Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)
 **Komisař, Vedení RZ - komunikace a bezpečnost v jednom.**
 
@@ -109,15 +118,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 13.08.2026
 - 📈 Celkem: +2,508 / -39 řádků
-
----
-
-### 🐍 [widget_windows_10](https://github.com/Ypsilonx/widget_windows_10)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 07.08.2026
-- 📈 Celkem: +790 / -10 řádků
 
 ---
 
