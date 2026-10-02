@@ -76,6 +76,15 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 <!-- REPO-LIST:START -->
 
+### 📁 [factorio_loader-unloader](https://github.com/Ypsilonx/factorio_loader-unloader)
+**Bez popisu**
+
+- 💻 Jazyk: `Lua`
+- 📅 Poslední commit: 02.10.2026
+- 📈 Celkem: +8,118 / -667 řádků
+
+---
+
 ### 🐍 [ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)
 **vlastní aplikace na ovládání LG klimatizace**
 
@@ -118,15 +127,6 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 - 💻 Jazyk: `Python`
 - 📅 Poslední commit: 24.08.2026
 - 📈 Celkem: +8,305 / -750 řádků
-
----
-
-### 🐍 [August_2026_Memory_challenge](https://github.com/Ypsilonx/August_2026_Memory_challenge)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 13.08.2026
-- 📈 Celkem: +2,508 / -39 řádků
 
 ---
 
