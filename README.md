@@ -81,7 +81,7 @@ hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukra
 
 - 💻 Jazyk: `Lua`
 - 📅 Poslední commit: 02.10.2026
-- 📈 Celkem: +8,118 / -667 řádků
+- 📈 Celkem: +8,876 / -729 řádků
 
 ---
 
