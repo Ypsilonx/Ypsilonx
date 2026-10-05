@@ -1,0 +1,52 @@
+name: Aktualizuj profil
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # každý den v 10:00 UTC (= 12:00 CEST)
+  workflow_dispatch:         # ruční spuštění z GitHub UI
+  push:                      # okamžité přegenerování po změně šablon nebo generátoru
+    branches: [main]
+    paths:
+      - 'templates/**'
+      - 'profile_gen/**'
+      - 'tests/**'
+      - '.github/workflows/update-profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repozitáře
+        uses: actions/checkout@v4
+
+      - name: Nastav Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Testy generátoru
+        run: python -m unittest discover -s tests -t .
+
+      - name: Vygeneruj README a SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Volitelný fine-grained token (jen čtení) – viz docs/profile-generator.md.
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: python -m profile_gen
+
+      - name: Ulož změny
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md README.*.md assets
+          git diff --staged --quiet || git commit -m "Aktualizuj profil"
+          git push
