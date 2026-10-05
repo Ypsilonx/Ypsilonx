@@ -1,174 +1,68 @@
-<!-- Header with animated typing effect -->
+<!-- Generated file – edit templates/README.en.md instead. -->
+<div align="right">🌐 <b>English</b> · <a href="https://github.com/Ypsilonx/Ypsilonx/blob/main/README.cs.md">Čeština</a></div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ahoj!+👋+Jsem+Ypsilonx;Python+Developer;Z+Valašska+do+digitálního+světa!;Vítej+na+mém+profilu!" alt="Typing SVG" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header.en.dark.svg"><img src="assets/header.en.light.svg" alt="Ypsilonx – Python developer" width="100%"></picture>
+</div>
+
+## 🚀 About me
+
+- 🐍 **Python developer** from Wallachia, Czech Republic – self-taught and proud of it.
+- 🔌 I build **desktop apps** (Tkinter, PyQt), tinker with **embedded devices** (ESP32, Raspberry Pi Pico) and connect Python with third-party software.
+- 🏢 At work I also deal with **C#** and **VBScript** for licensed software.
+- 🎯 **Right now:** a large work project and learning **Rust**.
+- 🎓 Learned with Czechitas, Codewars, Checkio, SoloLearn and the Junior.Guru community.
+
+## 🛠️ Tech stack
+
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech.en.dark.svg"><img src="assets/tech.en.light.svg" alt="Tech stack" width="100%"></picture>
+</div>
+
+## ⭐ Featured projects
+
+- **[Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)** – stage commissioner and stage management: communication and safety in one app.
+- **[ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)** – my own app for controlling an LG air conditioner.
+
+## 🔥 Recently active
+
+| Project | Language | Activity (12 wk) | Commits (12 wk) | Last push |
+|:--|:--|:--:|--:|:--|
+| **[factorio\_bi\_pump](https://github.com/Ypsilonx/factorio_bi_pump)**<br><sub>—</sub> | 🌙 Lua | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/factorio_bi_pump.dark.svg"><img src="assets/spark/factorio_bi_pump.light.svg" alt="12" width="120"></picture> | 12 | Oct 4, 2026<br><sub>🟢 active</sub> |
+| **[factorio\_loader-unloader](https://github.com/Ypsilonx/factorio_loader-unloader)**<br><sub>—</sub> | 🌙 Lua | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/factorio_loader-unloader.dark.svg"><img src="assets/spark/factorio_loader-unloader.light.svg" alt="27" width="120"></picture> | 27 | Oct 2, 2026<br><sub>🟢 active</sub> |
+| **[ThermoControl\_LG\_POER\_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)**<br><sub>vlastní aplikace na ovládání LG klimatizace</sub> | 🐍 Python | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/ThermoControl_LG_POER_app.dark.svg"><img src="assets/spark/ThermoControl_LG_POER_app.light.svg" alt="34" width="120"></picture> | 34 | Oct 1, 2026<br><sub>🟢 active</sub> |
+| **[widget\_windows\_10](https://github.com/Ypsilonx/widget_windows_10)**<br><sub>—</sub> | 🐍 Python | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/widget_windows_10.dark.svg"><img src="assets/spark/widget_windows_10.light.svg" alt="4" width="120"></picture> | 4 | Sep 27, 2026<br><sub>🟢 active</sub> |
+| **[Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)**<br><sub>Komisař, Vedení RZ - komunikace a bezpečnost v jednom.</sub> | 🐍 Python | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/Rally-safety-organization-app.dark.svg"><img src="assets/spark/Rally-safety-organization-app.light.svg" alt="58" width="120"></picture> | 58 | Sep 5, 2026 |
+| **[StartupDashboard](https://github.com/Ypsilonx/StartupDashboard)**<br><sub>—</sub> | 💠 PowerShell | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/StartupDashboard.dark.svg"><img src="assets/spark/StartupDashboard.light.svg" alt="4" width="120"></picture> | 4 | Aug 25, 2026 |
+
+## 📊 GitHub stats
+
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats.en.dark.svg"><img src="assets/stats.en.light.svg" alt="GitHub stats" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages.en.dark.svg"><img src="assets/languages.en.light.svg" alt="Most used languages" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity.en.dark.svg"><img src="assets/activity.en.light.svg" alt="Weekly contributions" width="100%"></picture>
+</div>
+
+<details>
+<summary><b>💡 Fun facts</b></summary>
+
+- 🏔️ **From Wallachia:** technology arrives ten years late, but the air is clean!
+- 🤖 **My senior colleagues:** AI assistants (Claude, GitHub Copilot) and Stack Overflow.
+- ☕ **Fuel:** caffeine and good music (DnB).
+- 🎯 **Motto:** “If it doesn't work, try again. If it still doesn't work, try a different approach!”
+- 🎮 **Off the keyboard:** gaming, mountain hikes and supporting Ukraine 🇺🇦.
+
+</details>
+
+## 🤝 Let's connect
+
+<div align="center">
+<a href="https://www.linkedin.com/in/ypsilonxpython/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin.dark.svg"><img src="assets/contact-linkedin.light.svg" alt="LinkedIn"></picture></a>
+<a href="https://discord.com/users/311947085278740480"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-discord.dark.svg"><img src="assets/contact-discord.light.svg" alt="Discord"></picture></a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider.dark.svg"><img src="assets/divider.light.svg" alt="" width="100%"></picture>
 
----
-
-## 🚀 O mně
-
-```yaml
-name: "Ypsilonx"
-located_in: "Valašsko, Česká republika 🇨🇿"
-current_job: "Python Developer"
-education: 
-  - "Samouk (a hrdý na to!)"
-  - "Czechitas"
-  - "Codewars, Check.io, SoloLearn,..."
-  - "Junior.Guru (Discord komunita)"
-
-fields_of_interests:
-  - "Embedded zařízení"
-  - "Desktop aplikace - tkinter"
-  - "Web aplikace (okrajově)"
-
-technical_background:
-  - "Frontend: Python (Tkinter, PyQt)"
-  - "Backend: Python, C# (kvůli práci), VBS (licencované softwary), C++ (velice málo jenom kvůli ESP32), Rust (trošičku okukuju)"
-  - "Database: SQLite, ale asi budu muset rošířit povědomí..."
-  
-currently_learning: ["Python", "C++", "C#", "Rust"]
-2025_goals: 
-  - "Pracovní projekt velkého významu"
-  - "Naučit se Rust"
-hobbies: ["Kódování", "Technologie", "Gaming", "Horské túry", "Podpora Ukrajiny"]
-```
-
----
-
-## 🛠️ Technologie & Nástroje
-
-<div align="center">
-
-### 🐍 Jazyky
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### ⚙️ Embedded & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### 🛠️ Nástroje
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistiky
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ypsilonx&theme=tokyonight&hide_border=true&date_format=j.%20n.%20Y&locale=cs" alt="GitHub Streak" />
-</div>
-
----
-
-## 🔥 Nejnovější repozitáře
-
-<!-- REPO-LIST:START -->
-
-### 📁 [factorio_loader-unloader](https://github.com/Ypsilonx/factorio_loader-unloader)
-**Bez popisu**
-
-- 💻 Jazyk: `Lua`
-- 📅 Poslední commit: 02.10.2026
-- 📈 Celkem: +8,876 / -729 řádků
-
----
-
-### 🐍 [ThermoControl_LG_POER_app](https://github.com/Ypsilonx/ThermoControl_LG_POER_app)
-**vlastní aplikace na ovládání LG klimatizace**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 01.10.2026
-- 📈 Celkem: +29,998 / -8,248 řádků
-
----
-
-### 🐍 [widget_windows_10](https://github.com/Ypsilonx/widget_windows_10)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 27.09.2026
-- 📈 Celkem: +834 / -16 řádků
-
----
-
-### 🐍 [Rally-safety-organization-app](https://github.com/Ypsilonx/Rally-safety-organization-app)
-**Komisař, Vedení RZ - komunikace a bezpečnost v jednom.**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 05.09.2026
-- 📈 Celkem: +37,150 / -6,884 řádků
-
----
-
-### 📁 [StartupDashboard](https://github.com/Ypsilonx/StartupDashboard)
-**Bez popisu**
-
-- 💻 Jazyk: `PowerShell`
-- 📅 Poslední commit: 25.08.2026
-- 📈 Celkem: +2,525 / -41 řádků
-
----
-
-### 🐍 [CAR_communication_simulator_app](https://github.com/Ypsilonx/CAR_communication_simulator_app)
-**Bez popisu**
-
-- 💻 Jazyk: `Python`
-- 📅 Poslední commit: 24.08.2026
-- 📈 Celkem: +8,305 / -750 řádků
-
----
-
-<!-- REPO-LIST:END -->
-
----
-
-## 🤝 Pojďme se spojit!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ypsilonxpython/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ypsilonx)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ypsilonx)
-
-</div>
-
----
-
-## 💡 Fun Facts
-
-- 🏔️ **Z Valašska:** Kde se technologie objevují o 10 let později, ale my máme čistý vzduch!
-- 🤖 **Můj senior kolega:** Claude Sonnet 4.6 (Claude Opus 4.8), Github Copilot a Stack Overflow (nejlepší tým ever!)
-- ☕ **Fuel:** Kofein a dobrá hudba (DNB)
-- 🎯 **Motto:** "Pokud to nejde, zkus to znovu. Pokud to stále nejde, zkus jiný approach!"
-- 📚 **Věčný student:** Každý den se něco nové naučím
-- 🎮 **Gaming:** Občas potřebujem odpočinek od programování
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ypsilonx&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  ### 💬 "Kód je poezie, kterou píšeme pro stroje, ale čtou ji lidé."
-  
-  <img src="https://komarev.com/ghpvc/?username=Ypsilonx&label=Návštěvníci+profilu&color=0e75b6&style=flat" alt="visitor count" />
+<sub><i>“Code is poetry we write for machines, but people read it.”</i></sub>
 </div>
