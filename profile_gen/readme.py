@@ -4,6 +4,7 @@ Podporované značky (v šabloně):
     {{switch}}                         přepínač jazyků
     {{repos}}                          tabulka naposledy aktivních repozitářů
     {{contacts}}                       kontaktní odznaky s odkazy
+    {{support}}                        odznak s odkazem na podporu (Buy me a coffee)
     {{picture:<asset>|<alt>[|<šířka>]}} obrázek s variantou pro světlý/tmavý režim
 """
 

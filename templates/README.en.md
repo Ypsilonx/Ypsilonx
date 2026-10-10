@@ -52,6 +52,14 @@
 {{contacts}}
 </div>
 
+## ☕ Support my work
+
+If my projects saved you some time or you simply like them, you can buy me a coffee. Thank you! 🙏
+
+<div align="center">
+{{support}}
+</div>
+
 <div align="center">
 {{picture:divider||100%}}
 

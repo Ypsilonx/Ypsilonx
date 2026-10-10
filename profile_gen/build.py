@@ -4,7 +4,7 @@ from pathlib import Path
 
 from . import config
 from .i18n import t
-from .markdown import contacts, language_switch, repo_table
+from .markdown import language_switch, link_badges, repo_table
 from .models import Profile
 from .readme import render_template
 from .stats import language_shares, select_recent, streaks, weekly_totals
@@ -15,7 +15,9 @@ from .svg.theme import THEMES
 
 # Obrázky, které se generují pro každý jazyk zvlášť (obsahují text).
 LOCALIZED_ASSETS = frozenset({"header", "stats", "languages", "activity", "tech"})
-SHARED_ASSETS = frozenset({"divider"} | {f"contact-{c.key}" for c in config.CONTACTS})
+SHARED_ASSETS = frozenset(
+    {"divider", f"support-{config.SUPPORT.key}"} | {f"contact-{c.key}" for c in config.CONTACTS}
+)
 
 
 def readme_filename(lang: str) -> str:
@@ -64,6 +66,9 @@ def build_outputs(profile: Profile, templates: dict[str, str]) -> dict[Path, str
         outputs[Path(f"assets/divider.{theme.name}.svg")] = render_divider(theme)
         for contact in config.CONTACTS:
             outputs[Path(f"assets/contact-{contact.key}.{theme.name}.svg")] = render_contact(contact, theme)
+        outputs[Path(f"assets/support-{config.SUPPORT.key}.{theme.name}.svg")] = render_contact(
+            config.SUPPORT, theme
+        )
         for repo in recent:
             weekly = repo.weekly_commits or (0,) * config.SPARKLINE_WEEKS
             outputs[config.SPARK_SUBDIR / f"{repo.name}.{theme.name}.svg"] = render_sparkline(weekly, theme)
@@ -78,7 +83,8 @@ def build_outputs(profile: Profile, templates: dict[str, str]) -> dict[Path, str
         fragments = {
             "switch": language_switch(lang, config.LANGS, urls),
             "repos": repo_table(lang, recent, config.SPARKLINE_WEEKS, profile.generated_at),
-            "contacts": contacts(config.CONTACTS),
+            "contacts": link_badges(config.CONTACTS, "contact"),
+            "support": link_badges((config.SUPPORT,), "support"),
         }
         body = render_template(
             templates[template_name], lang, fragments,

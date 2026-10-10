@@ -53,6 +53,12 @@ class BuildOutputsTests(unittest.TestCase):
         readme = next(v for p, v in self.outputs.items() if p.name == "README.md")
         self.assertIn(r"komunikace \| bezpečnost \*v jednom\*", readme)
 
+    def test_support_link_in_every_language(self):
+        for lang in config.LANGS:
+            readme = self.outputs[next(p for p in self.outputs if p.name == self._readme(lang))]
+            with self.subTest(lang=lang):
+                self.assertIn(f'<a href="{config.SUPPORT.url}">', readme)
+
     @staticmethod
     def _readme(lang: str) -> str:
         return "README.md" if lang == config.DEFAULT_LANG else f"README.{lang}.md"

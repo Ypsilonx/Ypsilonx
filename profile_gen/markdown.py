@@ -30,9 +30,10 @@ def picture(stem: str, alt: str, lang: str | None, width: str | None = None) -> 
     )
 
 
-def contacts(items: tuple[Contact, ...]) -> str:
+def link_badges(items: tuple[Contact, ...], prefix: str) -> str:
+    """Odkazované odznaky; obrázek musí být v assets/<prefix>-<klíč>.<téma>.svg."""
     return "\n".join(
-        f'<a href="{html.escape(c.url)}">{picture(f"contact-{c.key}", c.label, None)}</a>'
+        f'<a href="{html.escape(c.url)}">{picture(f"{prefix}-{c.key}", c.label, None)}</a>'
         for c in items
     )
 
