@@ -9,7 +9,7 @@ závislosti mimo standardní knihovnu Pythonu.
 | Chci změnit…                         | Soubor                                  |
 |--------------------------------------|-----------------------------------------|
 | texty profilu                        | `templates/README.en.md`, `templates/README.cs.md` |
-| technologie, kontakty, řádky hlavičky | `profile_gen/config.py`                 |
+| technologie, kontakty, podpora, řádky hlavičky | `profile_gen/config.py`        |
 | výchozí jazyk profilu                | `DEFAULT_LANG` v `profile_gen/config.py` |
 | popisky karet a tabulky              | `profile_gen/i18n.py`                   |
 | barvy (světlý/tmavý režim)           | `profile_gen/svg/theme.py`              |
@@ -23,10 +23,11 @@ závislosti mimo standardní knihovnu Pythonu.
 | `{{switch}}`                          | přepínač jazyků                                  |
 | `{{repos}}`                           | tabulka naposledy aktivních repozitářů           |
 | `{{contacts}}`                        | kontaktní odznaky s odkazy                       |
+| `{{support}}`                         | odznak s odkazem na podporu (Buy me a coffee)    |
 | `{{picture:<asset>\|<alt>[\|<šířka>]}}` | obrázek s variantou pro světlý a tmavý režim     |
 
 Dostupné obrázky: `header`, `tech`, `stats`, `languages`, `activity` (jazykové verze),
-`divider`, `contact-<klíč>` (společné). Neznámá značka ukončí generování chybou.
+`divider`, `contact-<klíč>`, `support-<klíč>` (společné). Neznámá značka ukončí generování chybou.
 
 ## Struktura balíčku
 

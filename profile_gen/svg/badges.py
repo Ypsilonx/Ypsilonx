@@ -64,6 +64,14 @@ def _contact_icon(contact: Contact) -> str:
             f'<circle cx="17" cy="21" r="1.6" fill="{contact.color}"/>'
             f'<circle cx="23" cy="21" r="1.6" fill="{contact.color}"/>'
         )
+    elif contact.key == "buymeacoffee":
+        # Hrnek s ouškem a párou; tmavá kresba, protože značková barva je světle žlutá.
+        glyph = (
+            '<path d="M13 17h11l-1.4 9.2a1.6 1.6 0 0 1-1.6 1.3h-5a1.6 1.6 0 0 1-1.6-1.3z" fill="#0d0c22"/>'
+            '<path d="M24 19h1.3a2.2 2.2 0 0 1 0 4.4H23.4" fill="none" stroke="#0d0c22" stroke-width="1.6"/>'
+            '<path d="M16.5 14.5c-.8-1 .8-1.6 0-2.6M20.5 14.5c-.8-1 .8-1.6 0-2.6" fill="none" '
+            'stroke="#0d0c22" stroke-width="1.3" stroke-linecap="round"/>'
+        )
     else:
         glyph = (
             f'<text x="20" y="26" text-anchor="middle" font-family="{SANS}" font-size="15" '

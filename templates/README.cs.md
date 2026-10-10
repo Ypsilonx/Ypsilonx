@@ -52,6 +52,14 @@
 {{contacts}}
 </div>
 
+## ☕ Podpora
+
+Pokud ti moje projekty ušetřily čas nebo se ti prostě líbí, můžeš mi koupit kávu. Děkuji! 🙏
+
+<div align="center">
+{{support}}
+</div>
+
 <div align="center">
 {{picture:divider||100%}}
 

@@ -106,6 +106,9 @@ CONTACTS: tuple[Contact, ...] = (
     Contact("discord", "Discord", "https://discord.com/users/311947085278740480", "#5865F2"),
 )
 
+# Odkaz na podporu – vlastní odznak ve stejném stylu jako kontakty, jen v samostatné sekci.
+SUPPORT = Contact("buymeacoffee", "Buy me a coffee", "https://buymeacoffee.com/ypsilonx", "#FFDD00")
+
 LANG_EMOJI = {
     "Python": "🐍",
     "C#": "💜",
