@@ -33,7 +33,7 @@
 | **[factorio\_bi\_pump](https://github.com/Ypsilonx/factorio_bi_pump)**<br><sub>—</sub> | 🌙 Lua | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/factorio_bi_pump.dark.svg"><img src="assets/spark/factorio_bi_pump.light.svg" alt="31" width="120"></picture> | 31 | Oct 23, 2026<br><sub>🟢 active</sub> |
 | **[factorio\_Strata\_Industry](https://github.com/Ypsilonx/factorio_Strata_Industry)**<br><sub>—</sub> | 🌙 Lua | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/factorio_Strata_Industry.dark.svg"><img src="assets/spark/factorio_Strata_Industry.light.svg" alt="84" width="120"></picture> | 84 | Oct 23, 2026<br><sub>🟢 active</sub> |
 | **[factorio\_loader-unloader](https://github.com/Ypsilonx/factorio_loader-unloader)**<br><sub>—</sub> | 🌙 Lua | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/factorio_loader-unloader.dark.svg"><img src="assets/spark/factorio_loader-unloader.light.svg" alt="50" width="120"></picture> | 50 | Oct 23, 2026<br><sub>🟢 active</sub> |
-| **[widget\_windows\_10](https://github.com/Ypsilonx/widget_windows_10)**<br><sub>—</sub> | 🐍 Python | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/widget_windows_10.dark.svg"><img src="assets/spark/widget_windows_10.light.svg" alt="5" width="120"></picture> | 5 | Oct 19, 2026<br><sub>🟢 active</sub> |
+| **[widget\_windows\_10](https://github.com/Ypsilonx/widget_windows_10)**<br><sub>—</sub> | 🐍 Python | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/spark/widget_windows_10.dark.svg"><img src="assets/spark/widget_windows_10.light.svg" alt="4" width="120"></picture> | 4 | Oct 19, 2026<br><sub>🟢 active</sub> |
 
 ## 📊 GitHub stats
 
